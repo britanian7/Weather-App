@@ -12,27 +12,27 @@ body {
 }
 
 body.clear {
-  background: url("./despejado.webp") no-repeat center center fixed;
+  background: url("../despejado.webp") no-repeat center center fixed;
   background-size: cover;
 }
 
 body.clouds {
-  background: url("./nublado.gif") no-repeat center center fixed;
+  background: url("../nublado.gif") no-repeat center center fixed;
   background-size: cover;
 }
 
 body.rain {
-  background: url("./rain.gif") no-repeat center center fixed;
+  background: url("../rain.gif") no-repeat center center fixed;
   background-size: cover;
 }
 
 body.snow {
-  background: url("./snow.gif") no-repeat center center fixed;
+  background: url("../snow.gif") no-repeat center center fixed;
   background-size: cover;
 }
 
 body.storm {
-  background: url("./storm.gif") no-repeat center center fixed;
+  background: url("../storm.gif") no-repeat center center fixed;
   background-size: cover;
 }
 
